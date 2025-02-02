@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/fnGetAllMovies/.vscode/extensions.json
+/.vs/Azure_GerenciadorCatalogos
+/fnGetAllMovies/Properties/launchSettings.json
+/fnGetMovieDetail/.vscode
+/fnGetMovieDetail/Properties/launchSettings.json
+/fnPostDataBase/.vscode
+/fnPostDataBase/Properties/launchSettings.json
+/fnPostDataStorage/.vscode
+/fnPostDataStorage/Properties/launchSettings.json
